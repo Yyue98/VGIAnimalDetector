@@ -1,1 +1,0 @@
-../../../WeChatSDK-iOS/SDKExport/WXApi.h

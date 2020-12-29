@@ -1,6 +1,0 @@
-framework module MapboxChinaPlugin {
-  umbrella header "MapboxChinaPlugin.h"
-
-  export *
-  module * { export * }
-}

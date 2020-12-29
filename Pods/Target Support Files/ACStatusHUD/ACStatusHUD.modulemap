@@ -1,6 +1,0 @@
-framework module ACStatusHUD {
-  umbrella header "ACStatusHUD-umbrella.h"
-
-  export *
-  module * { export * }
-}

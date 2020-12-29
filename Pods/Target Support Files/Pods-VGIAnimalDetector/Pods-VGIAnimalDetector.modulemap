@@ -1,6 +1,0 @@
-framework module Pods_VGIAnimalDetector {
-  umbrella header "Pods-VGIAnimalDetector-umbrella.h"
-
-  export *
-  module * { export * }
-}
